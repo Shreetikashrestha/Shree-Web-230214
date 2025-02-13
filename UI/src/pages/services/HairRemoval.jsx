@@ -10,7 +10,7 @@ const services = [
     id: 1,
     title: "Waxing",
     description:
-      "Experience smooth skin with our professional waxing services.",
+       "Experience smooth skin with our professional waxing services.",
     image: "/api/placeholder/400/300",
   },
   {
