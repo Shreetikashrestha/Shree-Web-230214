@@ -16,14 +16,14 @@ const services = [
     title: "Volume Eyelash Extensions",
     description:
       "Achieve a fuller, more dramatic look with our volume eyelash extensions.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739422160/03.11-Before-After-Social-Images-3-e1532011354826_nfv0ny.jpg",
   },
   {
     id: 2,
     title: "Eyelash Lift",
     description:
       "Lift and curl your natural lashes for a wide-eyed look without the need for extensions.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739421814/eyelashlift_qbgkwx.jpg",
   },
 ];
 
